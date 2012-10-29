@@ -34,7 +34,7 @@
 		</developer>
 	</developers>
 	<modules>
-		<module>library</module>
+		<module>library-p2r</module>
 		<module>sample</module>
 		<module>extras</module>
 	</modules>
